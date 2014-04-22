@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Quickるりまサーチ",
+  "description": "迅速るりまサーチ検索",
+  "version": "0.1",
+  "permissions": [
+    "contextMenus"
+  ],
+  "background": {
+    "persistent": false,
+    "scripts": [
+      "js/search.js"
+    ]
+  }
+}
