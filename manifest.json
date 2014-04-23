@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Quickるりまサーチ",
   "description": "迅速るりまサーチ検索",
-  "version": "0.2",
+  "version": "0.3",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
